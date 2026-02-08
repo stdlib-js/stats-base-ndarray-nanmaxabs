@@ -48,6 +48,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import nanmaxabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-nanmaxabs@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-ndarray-nanmaxabs/tags). For example,
+
+```javascript
 import nanmaxabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-nanmaxabs@v0.1.1-deno/mod.js';
 ```
 
@@ -95,7 +100,7 @@ import filledarrayBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-filled-by
 import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-bernoulli@deno/mod.js';
 import ndarray from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-ctor@deno/mod.js';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@deno/mod.js';
-import nanmaxabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-nanmaxabs@v0.1.1-deno/mod.js';
+import nanmaxabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-nanmaxabs@deno/mod.js';
 
 function rand() {
     if ( bernoulli( 0.8 ) < 1 ) {
