@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-25)
+## Unreleased (2026-08-07)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`0f24d0d`](https://github.com/stdlib-js/stdlib/commit/0f24d0d9f742c471f083ad6c00df814e05053d12) - **docs:** update descriptions and comments [(#13451)](https://github.com/stdlib-js/stdlib/pull/13451) _(by Philipp Burckhardt)_
 -   [`1ba3724`](https://github.com/stdlib-js/stdlib/commit/1ba37246a4f68a546b4f9d126a9ce6723beaae05) - **refactor:** remove unnecessary generics _(by Athan Reines)_
 -   [`f767c55`](https://github.com/stdlib-js/stdlib/commit/f767c552c8f17d9116b8a23cf4f07512612344a0) - **chore:** modernize examples and benchmarks _(by Athan Reines)_
 -   [`7476e20`](https://github.com/stdlib-js/stdlib/commit/7476e2084236526a362d28d3c6f335cc4331fd8c) - **bench:** use string interpolation in `stats/base/ndarray/nanmaxabs` [(#10165)](https://github.com/stdlib-js/stdlib/pull/10165) _(by Om-A-osc)_
@@ -26,10 +27,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Om-A-osc
+-   Philipp Burckhardt
 
 </section>
 
